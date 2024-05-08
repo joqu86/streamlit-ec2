@@ -1,3 +1,5 @@
 ### dependencies
 streamlit
 scikit-learn
+matplotlib
+numpy
